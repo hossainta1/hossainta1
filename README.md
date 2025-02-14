@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossainta1&show_icons=true&locale=en" alt="hossainta1" /></p>
 <h3>🎓 Education</h3>
-<p>BSc (Hons.) in Computing | University of Greenwich, UK<br>2022 - 2024 | Result: In progress</p>
+<p>BSc (Hons.) in Computing | University of Greenwich, UK<br>2022 - 2024 | Result: 1st Class</p>
 <p>Level 5 Diploma in Computing | NCC Education, UK<br>2021 - 2022</p>
 <p>Level 4 Diploma in Computing | NCC Education, UK<br>2020 - 2021</p>
 
