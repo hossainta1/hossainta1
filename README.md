@@ -51,18 +51,6 @@ Backend & Auth: JWT, Zod, Mongoose, RESTful APIs <br>
 Tools: Figma, SharePoint, Power BI, Postman, Swagger
 </p>
 
-💼 Professional Experience
-Executive System Engineer | Hajee Air Travels | February 2025 - Present
-
-Executed daily system operations, ensuring efficient functionality crucial for business continuity and service delivery.
-
-Coordinated cross-functionally to resolve system-related issues, directly impacting operational workflows and stakeholder satisfaction.
-
-Maintained precise documentation and updated system data, contributing to accurate record-keeping and streamlined processes.
-
-Applied analytical problem-solving to troubleshoot technical challenges, minimizing disruptions and supporting continuous operations.
-
-Collaborated with internal and external teams to optimize system processes, enhancing overall efficiency and scalability, and assisting with data for reporting.
 
 💡 Featured Projects
 1. Restaurant Management System
